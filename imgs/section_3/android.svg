@@ -1,0 +1,22 @@
+<svg id="android" xmlns="http://www.w3.org/2000/svg" width="16.014" height="20.229" viewBox="0 0 16.014 20.229">
+  <g id="Group_135" data-name="Group 135" transform="translate(3.371 7.587)">
+    <g id="Group_134" data-name="Group 134" transform="translate(0)">
+      <path id="Path_11650" data-name="Path 11650" d="M147.533,192.034H139.1a.422.422,0,0,0-.421.421V199.2a2.111,2.111,0,0,0,1.686,2.065v2.149a1.264,1.264,0,0,0,2.528,0v-2.107h.843v2.107a1.264,1.264,0,0,0,2.528,0v-2.149a2.11,2.11,0,0,0,1.686-2.065v-6.743A.421.421,0,0,0,147.533,192.034Z" transform="translate(-138.683 -192.034)" fill="#16062d"/>
+    </g>
+  </g>
+  <g id="Group_137" data-name="Group 137" transform="translate(3.371 0)">
+    <g id="Group_136" data-name="Group 136" transform="translate(0 0)">
+      <path id="Path_11651" data-name="Path 11651" d="M145.525,2.245l.711-1.658a.421.421,0,0,0-.775-.331l-.71,1.659a4.593,4.593,0,0,0-2.861,0L141.178.256a.421.421,0,1,0-.774.331l.711,1.658a4.639,4.639,0,0,0-2.431,4.077.422.422,0,0,0,.421.421h8.428a.422.422,0,0,0,.421-.421A4.64,4.64,0,0,0,145.525,2.245Zm-3.891,2.812a.421.421,0,1,1,.421-.421A.422.422,0,0,1,141.634,5.058Zm3.371,0a.421.421,0,1,1,.421-.421A.422.422,0,0,1,145.005,5.058Z" transform="translate(-138.684 0.001)" fill="#16062d"/>
+    </g>
+  </g>
+  <g id="Group_139" data-name="Group 139" transform="translate(13.485 7.587)">
+    <g id="Group_138" data-name="Group 138" transform="translate(0)">
+      <path id="Path_11652" data-name="Path 11652" d="M395.948,192.034a1.266,1.266,0,0,0-1.264,1.264v4.214a1.264,1.264,0,0,0,2.528,0V193.3A1.266,1.266,0,0,0,395.948,192.034Z" transform="translate(-394.684 -192.034)" fill="#16062d"/>
+    </g>
+  </g>
+  <g id="Group_141" data-name="Group 141" transform="translate(0 7.587)">
+    <g id="Group_140" data-name="Group 140">
+      <path id="Path_11653" data-name="Path 11653" d="M54.614,192.034A1.266,1.266,0,0,0,53.35,193.3v4.214a1.264,1.264,0,0,0,2.528,0V193.3A1.266,1.266,0,0,0,54.614,192.034Z" transform="translate(-53.35 -192.034)" fill="#16062d"/>
+    </g>
+  </g>
+</svg>
